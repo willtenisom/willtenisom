@@ -69,7 +69,7 @@ My goal is to build robust, clean, and testable systems, always eager to learn a
 
 ## 📫 How to reach me?
 
-- [LinkedIn](https://www.linkedin.com/in/william-douglas-9baa16228)
+- [LinkedIn]([https://www.linkedin.com/in/william-douglas-barreto-da-conceição])
 - Email: **wil_barretto@hotmail.com**
 
 ---
