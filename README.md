@@ -10,13 +10,11 @@ My goal is to build robust, clean, and testable systems, always eager to learn a
 
 - 🎓 Studying Computer Science for 4 years (8 semesters) at **UNIFACS University**
 - 💻 Hands-on experience with:  
-  `Node.js`, `NestJS`, `TypeScript`, `MongoDB`, `SQLite`, `Docker`, `RabbitMQ`, `Jest`, `Swagger`
+  `Node.js`, `NestJS`, `Next.js`, `TypeScript`, `MongoDB`, `SQLite`, `Docker`, `RabbitMQ`, `Jest`, `Swagger`
 - 👯 Looking to collaborate on open-source projects focused on **Open-source projects**, **distributed systems**, **event-driven architecture**, and **API performance optimization**.
 - 💬 I'm always open to conversations about backend architecture, test automation, containerization, and API design & documentation.
 
 ---
-
-## 📊 My GitHub Stats
 
 <p align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=willtenisom&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox&hide_title=true" alt="William's GitHub Stats" />
@@ -25,6 +23,7 @@ My goal is to build robust, clean, and testable systems, always eager to learn a
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willtenisom&layout=compact&langs_count=10&theme=gruvbox&hide_title=true" alt="William's Top Languages" />
 </p>
+
 
 
 ---
@@ -37,6 +36,7 @@ My goal is to build robust, clean, and testable systems, always eager to learn a
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
 
@@ -56,6 +56,7 @@ My goal is to build robust, clean, and testable systems, always eager to learn a
 ![CI/CD](https://img.shields.io/badge/-CI/CD-0A0A0A?style=flat&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ---
+
 
 ## 🚀 Technologies of Interest
 
