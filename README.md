@@ -17,18 +17,17 @@ My goal is to build robust, clean, and testable systems, always eager to learn a
 ---
 
 
-<p align="center" style="display:flex; justify-content:center; align-items:center; gap:2rem; flex-wrap:wrap;">
-  <!-- GitHub Stats: commits públicos -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=willtenisom&show_icons=true&include_all_commits=true&theme=gruvbox&hide_title=true" alt="William's GitHub Stats" />
-
-  <!-- Streak Stats: streak de contribuições -->
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=willtenisom&theme=gruvbox" alt="William's GitHub Streak" />
-
-  <!-- Top Languages: todas as linguagens públicas usadas -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willtenisom&layout=compact&langs_count=100&theme=gruvbox&hide_title=true" alt="William's Top Languages" />
+<p align="center">
+  <!-- Linha de cima: GitHub Stats e Streak Stats -->
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=willtenisom&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox&hide_title=true" alt="William's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=willtenisom&theme=gruvbox" alt="William's GitHub Streak" />
 </p>
 
-
+<p align="center">
+  <!-- Linha de baixo: Top Languages -->
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willtenisom&layout=compact&langs_count=10&theme=gruvbox&hide_title=true" alt="William's Top Languages" />
+</p>
 
 ---
 
