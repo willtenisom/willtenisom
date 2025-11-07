@@ -8,7 +8,7 @@ My goal is to build robust, clean, and testable systems, always eager to learn a
 
 ## 🚀 About Me
 
-- 🎓 Studying Computer Science for 4 years (8 semesters) at **UNIFACS University**
+- 🎓 Studying Computer Science for 3 years (6 semesters) at **UNIFACS University**
 - 💻 Hands-on experience with:  
   `Node.js`, `NestJS`, `Next.js`, `TypeScript`, `MongoDB`, `SQLite`, `Docker`, `RabbitMQ`, `Jest`, `Swagger`
 - 👯 Looking to collaborate on open-source projects focused on **Open-source projects**, **distributed systems**, **event-driven architecture**, and **API performance optimization**.
